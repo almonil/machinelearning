@@ -9,7 +9,7 @@ Se hará especial énfasis en las diferentes arquitecturas modernas de Intelgenc
 
 ## Contenido
 1. **Presentación del curso**
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/00_machinelearning_presentation.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
 	
 2. **Introducción a la *Inteligencia artificial***
 	* Descargar presentación [PDF]
