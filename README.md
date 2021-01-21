@@ -15,11 +15,10 @@ El propósito es introducir al estudiante en una de las áreas más importantes 
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
 	
 2. **Introducción a la *Inteligencia artificial***
-	* Descargar presentación [PDF]
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/01_artificialintelligence_introduction.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
 	
-
 
 ## Material adicional
 
