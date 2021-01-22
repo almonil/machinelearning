@@ -1,5 +1,6 @@
 [![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/deeplearningmodule)
 # Inteligencia Artificial
+
 ## Descripción del curso
 
 El propósito es introducir al estudiante en una de las áreas más importantes de las Ciencias de la computación de manera que esta le proporcione los conocimientos necesarios para que pueda simular el pensamiento y la conducta humana para encontrar soluciones significativas a problemas del entorno que lo rodea mediante sistemas artificiales a partir de sistemas inteligentes, sistemas expertos, lógica difusa, redes neuronales, computación evolutiva y aprendizaje de máquina.
@@ -9,12 +10,11 @@ El propósito es introducir al estudiante en una de las áreas más importantes 
 
 **Grabación de las clases**
 [Enlace carpeta Drive](https://drive.google.com/drive/folders/1VShsZirA-Q8iIZvqumn8Trm1PxqA3zL0?usp=sharing)
+**Presentación del curso** [Descargar presentación](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
 
 ## Contenido
-1. **Presentación del curso**
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
-	
-2. **Introducción a la *Inteligencia artificial***
+
+1. **Introducción a la *Inteligencia artificial***
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/01_artificialintelligence_introduction.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
