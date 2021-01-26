@@ -8,9 +8,9 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 * Se presentarán los tópicos fundamentales del aprendizaje de máquina.
 * Se hará especial énfasis en las diferentes arquitecturas modernas de Inteligencia Artificial, así como los problemas prácticos asociados con su diseño, implementación, entrenamiento y despliegue. Se realizarán diferentes talleres prácticos enfocados a problemas reales con información textual e imágenes utilizando herramientas populares como ScikitLearn, Keras y TensorFlow.
 
-<!-- ! #### Información
-! * **Grabación de las clases** [Enlace carpeta Drive](https://drive.google.com/drive/folders/1VShsZirA-Q8iIZvqumn8Trm1PxqA3zL0?usp=sharing)
-! * **Presentación del curso** [Descargar presentación](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf) -->
+#### Información
+* **Grabación de las clases** [Enlace carpeta Drive](https://drive.google.com/drive/folders/1VShsZirA-Q8iIZvqumn8Trm1PxqA3zL0?usp=sharing)
+* **Presentación del curso** [Descargar presentación](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
 
 ## Contenido
 
@@ -18,7 +18,11 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/01_artificialintelligence_introduction.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
-	
+
+2. **Agentes inteligentes**
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_intelligentagents.pdf)
+		* **[Russell10]** Chap 2 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
+		* **[Russell10]** Chap 2 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
 
 ## Material adicional
 
