@@ -22,7 +22,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 2. **Agentes inteligentes**
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/02_artificialintelligence_intelligentagents.pdf)
 		* **[Russell10]** Chap 2 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf)
-		* **[Coloma20]** Inteligencia artificial, sistemas inteligentes, agentes inteligentes [(PDF)](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/InteligenciaArtificialSistemasInteligentesAgentes.pdf
+		* **[Coloma20]** Inteligencia artificial, sistemas inteligentes, agentes inteligentes [(PDF)](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/InteligenciaArtificialSistemasInteligentesAgentes.pdf)
 
 ## Material adicional
 
