@@ -1,4 +1,4 @@
-[![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/deeplearningmodule)
+[![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/machinelearning)
 # Inteligencia Artificial
 
 ## Descripción
@@ -10,7 +10,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 #### Información
 * **Grabación de las clases** [Enlace carpeta Drive](https://drive.google.com/drive/folders/1VShsZirA-Q8iIZvqumn8Trm1PxqA3zL0?usp=sharing)
-* **Presentación del curso** [Descargar presentación](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf)
+* **Presentación del curso** [Descargar presentación](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/syllabus/00_artificialintelligence_syllabus.pdf)
 
 ## Contenido
 
