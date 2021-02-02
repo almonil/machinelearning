@@ -27,8 +27,8 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 ## Material adicional
 
 
-* [Cómo instalar el entorno de desarrollo Python Anaconda](https://www.tensorflow.org/install?hl=es-419)
-	* [Anaconda documentation Installation](https://www.youtube.com/watch?v=s4Lcf9du9L8)
+* [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
+	* [oficial Anaconda documentation Installation](https://docs.anaconda.com/anaconda/install/windows/)
 
 * [Cómo instalar TensorFlow 2](https://www.tensorflow.org/install?hl=es-419)
 	* [TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Video](https://www.youtube.com/watch?v=s4Lcf9du9L8)
