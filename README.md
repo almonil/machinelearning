@@ -25,7 +25,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* **[Coloma20]** Inteligencia artificial, sistemas inteligentes, agentes inteligentes [(PDF)](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/InteligenciaArtificialSistemasInteligentesAgentes.pdf)
 
 3. **Agentes y búsqueda**
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/03_artificialintelligence_agentsandsearch.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/03_artificialintelligence_problemsolvingandsearch.pdf)
 		* **[Russell10]** Chap 3 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter04.pdf) Chap 4 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf)
 		<!--* **[AI-edX]** Agents and Search [(slides)](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) [(video)](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/)-->
 
