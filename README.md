@@ -29,12 +29,20 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* **[Russell10]** Chap 3 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter04.pdf) Chap 4 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf)
 		<!--* **[AI-edX]** Agents and Search [(slides)](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) [(video)](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/)-->
 
+4. **Introducción a Python**
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
+		* IPython Notebooks:
+			- Introducción a Jupyter [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			- Notebook de ejemplo [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			- Curso rápido de Python [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
 
 ## Material adicional
 
 
 * [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
 	* [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
+
+* [Python Cheatsheet](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/cheatsheetsandinfographics/pythoncheatsheets.pdf)
 
 * [Cómo instalar TensorFlow 2](https://www.tensorflow.org/install?hl=es-419)
 	* [TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Video](https://www.youtube.com/watch?v=s4Lcf9du9L8)
