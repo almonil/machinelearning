@@ -32,15 +32,19 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 4. **Introducción a Python**
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
 		* IPython Notebooks:
-			- Introducción a Jupyter [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
-			- Notebook de ejemplo [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
-			- Curso rápido de Python [aquí](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+			- Introducción a Jupyter [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			- Notebook de ejemplo [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
+			- Curso rápido de Python [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
 
 ## Material adicional
 
 
 * [Cómo instalar el entorno de desarrollo Python Anaconda](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/documentation/instalarPython_Anaconda.pdf)
 	* [Anaconda installation documentation](https://docs.anaconda.com/anaconda/install/windows/)
+	* [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
 * [Python Cheatsheet](https://github.com/marcoteran/machinelearning/raw/master/aditionalmaterial/cheatsheetsandinfographics/pythoncheatsheets.pdf)
 
