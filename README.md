@@ -31,10 +31,6 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 4. **Introducción a Python**
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
-	<!-- Place this tag where you want the button to render. -->
-	<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
-	<!-- Place this tag in your head or just before your close body tag. -->
-	<script async defer src="https://buttons.github.io/buttons.js"></script>
 		* IPython Notebooks:
 			- Introducción a Jupyter [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
