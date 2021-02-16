@@ -43,7 +43,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* Python Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_pythoncrashcoursehomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_pythoncrashcoursehomework.ipynb)
 			(**Deadline:** 16/02/2021)
-	* **Numpy** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
+	* **Numpy** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/05_artificialintelligence_numpy.pdf)
 		* IPython Notebooks:
 			- NumPy [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyarrays.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyarrays.ipynb)
@@ -54,7 +54,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* Numpy Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
 			(**Deadline:** 18/02/2021)
-	* **Matplotlib** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
+	* **Matplotlib**
 		* IPython Notebooks:
 			- Matplotlib [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
