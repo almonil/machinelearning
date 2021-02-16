@@ -30,7 +30,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		<!--* **[AI-edX]** Agents and Search [(slides)](http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx) [(video)](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/)-->
 
 4. **Introducción a Python**
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
+	* Fundamentos de Python [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
 		* IPython Notebooks:
 			- Introducción a Jupyter [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
@@ -38,6 +38,17 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/02_artificialintelligence_notebookexample.ipynb)
 			- Curso rápido de Python [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/03_artificialintelligence_pythoncrashcourse.ipynb)
+	* Numpy [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/04_artificialintelligence_pythoncrashcourse.pdf)
+		* IPython Notebooks:
+			- NumPy [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/01_artificialintelligence_jupyterintroduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/04_artificialintelligence_numpyarrays.ipynb)
+			- NumPy: Indices y Selección [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/04_artificialintelligence_numpyarrays.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_numpyinedexesandselection.ipynb)
+			- NumPy: Operaciones [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyoperations.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyoperations.ipynb)
+		* Numpy Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/07_artificialintelligence_numpyhomework.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/07_artificialintelligence_numpyhomework.ipynb)
+			(**Deadline:** 18/02/2021)
 
 ## Material adicional
 
