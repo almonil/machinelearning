@@ -74,6 +74,13 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			(**Deadline:** 02/03/2021)
 -->
 
+## Talleres y tareas
+
+* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyarrays.ipynb) (**Deadline:** 25/02/2021)
+
+## Proyecto de aula
+
+
 ## Material adicional
 
 
