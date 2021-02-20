@@ -53,7 +53,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/08_artificialintelligence_numpyoperations.ipynb)
 		* Numpy Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
-			(**Deadline:** 18/02/2021)
+			(**Deadline:** 23/02/2021)
 	* **Matplotlib**
 		* IPython Notebooks:
 			- Matplotlib [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
@@ -62,8 +62,17 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
 		* Matplotlib Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
-			(**Deadline:** 18/02/2021)
-
+			(**Deadline:** 25/02/2021)
+<!--	* **Pandas**
+		* IPython Notebooks:
+			- Matplotlib [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
+			- Matplotlib avanzado [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
+		* Pandas Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
+			(**Deadline:** 02/03/2021)
+-->
 
 ## Material adicional
 
