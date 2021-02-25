@@ -63,7 +63,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* Matplotlib Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
 			(**Deadline:** 25/02/2021)
-		* **Pandas**
+	* **Pandas**
 		* IPython Notebooks:
 			- Introducción a Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
