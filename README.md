@@ -65,10 +65,10 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			(**Deadline:** 25/02/2021)
 	* **Pandas**
 		* IPython Notebooks:
-			- Introducción a Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
-			- Pandas: DataFrames [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
+			- Introducción a Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/13_artificialintelligence_pandasintroandseries.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/13_artificialintelligence_pandasintroandseries.ipynb)
+			- Pandas: DataFrames [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/14_artificialintelligence_pandasdataframes.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/14_artificialintelligence_pandasdataframes.ipynb)
 			- Pandas: Agrupaciones y agregaciones [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
 			- Pandas: Visualización de datos con Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
