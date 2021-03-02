@@ -95,7 +95,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 ## Proyecto de aula
 
-Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso. [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
+Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
 
 ## Material adicional
 
