@@ -42,7 +42,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/04_artificialintelligence_pythonloadingfiles.ipynb)
 		* Python Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_pythoncrashcoursehomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/05_artificialintelligence_pythoncrashcoursehomework.ipynb)
-			(**Deadline:** 16/02/2021)
+			<sub>(**Deadline:** 16/02/2021)</sub>
 	* **Numpy** [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/05_artificialintelligence_numpy.pdf)
 		* IPython Notebooks:
 			- NumPy [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/06_artificialintelligence_numpyarrays.ipynb)
@@ -53,7 +53,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/08_artificialintelligence_numpyoperations.ipynb)
 		* Numpy Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/09_artificialintelligence_numpyhomework.ipynb)
-			(**Deadline:** 23/02/2021)
+			<sub>(**Deadline:** 23/02/2021)</sub>
 	* **Matplotlib**
 		* IPython Notebooks:
 			- Matplotlib [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/10_artificialintelligence_matplotlib.ipynb)
@@ -62,7 +62,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
 		* Matplotlib Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
-			(**Deadline:** 04/02/2021)
+			<sub>(**Deadline:** 04/02/2021)</sub>
 	* **Pandas**
 		* IPython Notebooks:
 			- Introducción a Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/13_artificialintelligence_pandasintroandseries.ipynb)
@@ -75,7 +75,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/16_artificialintelligence_pandasvisualization.ipynb)
 		* Pandas Visualization Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/17_artificialintelligence_pandasvisualizationhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/17_artificialintelligence_pandasvisualizationhomework.ipynb)
-			(**Deadline:** 04/03/2021)
+			<sub>(**Deadline:** 04/03/2021)</sub>
 			- Pandas: Datos faltantes [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/18_artificialintelligence_pandashiddendata.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/18_artificialintelligence_pandashiddendata.ipynb)
 			- Pandas: Combinando DataFrames [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/19_artificialintelligence_pandasdfcombination.ipynb)
@@ -86,17 +86,17 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/21_artificialintelligence_pandasinout.ipynb)
 		* Pandas Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/22_artificialintelligence_pandashomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/22_artificialintelligence_pandashomework.ipynb)
-			(**Deadline:** 04/03/2021)
+			<sub>(**Deadline:** 04/03/2021)</sub>
 
 
 ## Talleres y tareas
 
-* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_introtolatex.pdf) (**Deadline:** 04/03/2021)
+* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_introtolatex.pdf) <sub>(**Deadline:** 04/03/2021)</sub>
 
 ## Proyecto de aula
 
 Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
-	* Primera entrega (**Deadline:** 16/03/2021)
+	* Primera entrega <sub>(**Deadline:** 16/03/2021)</sub>
 
 ## Material adicional
 
