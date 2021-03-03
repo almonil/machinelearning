@@ -62,7 +62,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/11_artificialintelligence_advancedmatplotlib.ipynb)
 		* Matplotlib Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/12_artificialintelligence_matplotlibhomework.ipynb)
-			<sub>(**Deadline:** 04/02/2021)</sub>
+			<sub>(**Deadline:** 04/03/2021)</sub>
 	* **Pandas**
 		* IPython Notebooks:
 			- Introducción a Pandas [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/13_artificialintelligence_pandasintroandseries.ipynb)
@@ -96,7 +96,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 ## Proyecto de aula
 
 Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
-	* Primera entrega <sub>(**Deadline:** 16/03/2021)</sub>
+* Primera entrega <sub>(**Deadline:** 16/03/2021)</sub>
 
 ## Material adicional
 
