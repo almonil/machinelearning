@@ -91,11 +91,12 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 ## Talleres y tareas
 
-* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_introtolatex.pdf) (**Deadline:** 02/03/2021)
+* Taller: **Introducción a LaTex** [descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_introtolatex.pdf) (**Deadline:** 04/03/2021)
 
 ## Proyecto de aula
 
 Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
+	* Primera entrega (**Deadline:** 16/03/2021)
 
 ## Material adicional
 
