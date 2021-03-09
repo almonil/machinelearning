@@ -87,6 +87,11 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 		* Pandas Homework [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/22_artificialintelligence_pandashomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/22_artificialintelligence_pandashomework.ipynb)
 			<sub>(**Deadline:** 04/03/2021)</sub>
+5. **Aprendizaje de máquina**
+	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/06_artificialintelligence_machinelearning.pdf)
+		* **[Russell10]** Chap 18: Sect 18.1, 18.2, 18.6 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
+		* IPython Notebooks: Sesión 01: Clasificación binaria usando un modelo lineal (Demo) [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
 
 
 ## Talleres y tareas
