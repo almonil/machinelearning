@@ -90,8 +90,11 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 5. **Aprendizaje de máquina**
 	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/06_artificialintelligence_machinelearning.pdf)
 		* **[Russell10]** Chap 18: Sect 18.1, 18.2, 18.6 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
-		* IPython Notebooks: Sesión 01: Clasificación binaria usando un modelo lineal (Demo) [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
+		* IPython Notebooks: 
+			- Sesión 01: Clasificación binaria usando un modelo lineal (Demo) [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
+			- Sesión 02: Clasificación Lineal y Evaluación del Desempeño [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/02_artificialintelligence_linealclassification_performanceevaluation.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/02_artificialintelligence_linealclassification_performanceevaluation.ipynb)
 
 
 ## Talleres y tareas
