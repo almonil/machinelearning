@@ -88,9 +88,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/00_introtopython/22_artificialintelligence_pandashomework.ipynb)
 			<sub>(**Deadline:** 04/03/2021)</sub>
 5. **Aprendizaje de máquina** [PDF1](https://github.com/marcoteran/machinelearning/raw/master/lectures/06_artificialintelligence_machinelearning.pdf) [PDF2](https://github.com/marcoteran/machinelearning/raw/master/lectures/07_artificialintelligence_regressionandmetrics.pdf)
-
-
-		* **[Russell10]** Chap 18: Sect 18.1, 18.2, 18.6 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
+	* **[Russell10]** Chap 18: Sect 18.1, 18.2, 18.6 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
 6. **Estimación probabilística**
 7. **Clasificación no lineal** _(k-NN, Árboles de decisión)_
 
