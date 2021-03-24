@@ -94,8 +94,8 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/01_artificialintelligence_machinelearning.ipynb)
 			- Sesión 02: Clasificación Lineal y Evaluación del Desempeño [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/02_artificialintelligence_linealclassification_performanceevaluation.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/02_artificialintelligence_linealclassification_performanceevaluation.ipynb)
-			- **Ejemplo:** Clasificación de vinos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_linealclassification_performanceevaluation.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_linealclassification_performanceevaluation.ipynb)
+			- **Ejemplo:** Clasificación de vinos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_example.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_example.ipynb)
 6. **Estimación probabilística**
 7. **Clasificación no lineal** _(k-NN, Árboles de decisión)_
 
