@@ -99,8 +99,9 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 6. **Clasificación no lineal** _(k-NN, Árboles de decisión)_ [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/08_artificialintelligence_nonlinealclassifiers.pdf)
 	* **[Russell10]** Chap 18: Sect 18.3 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
 		* IPython Notebooks:
-			- Sesión 03: Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting.ipynb)
+			- Sesión 03: Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting_SOL.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting_SOL.ipynb)
+
 
 
 
