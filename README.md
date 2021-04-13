@@ -114,7 +114,7 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 
 Ejecutar un proyecto de machine learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/machinelearning/raw/master/homeworks/artificialintelligence_courseproject_2021I.pdf).
 * Primera entrega <sub>(**Deadline:** 16/03/2021->**23/03/2021** (Extended))</sub>
-* Primera y segunda entrega <sub>(**Deadline:** 08/05/2021** (Extended))</sub>
+* Primera y segunda entrega <sub>(**Deadline:** 08/04/2021** (Extended))</sub>
 
 ## Material adicional
 
