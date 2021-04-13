@@ -96,12 +96,12 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/02_artificialintelligence_linealclassification_performanceevaluation.ipynb)
 			- **Ejemplo:** Clasificación de vinos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/wineclassification_module.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/wineclassification_module.ipynb)
-6. **Clasificación no lineal** _(k-NN, Árboles de decisión)_ [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/08_artificialintelligence_nonlinealclassifiers.pdf)
+6. **Clasificación no lineal** _(k-NN, Árboles de decisión, SVM)_ [PDF](https://github.com/marcoteran/machinelearning/raw/master/lectures/08_artificialintelligence_nonlinealclassifiers.pdf)
 	* **[Russell10]** Chap 18: Sect 18.3 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf)
 		* IPython Notebooks:
 			- Sesión 03: Clasificación no lineal, complejidad y sobreajuste [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting_SOL.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting_SOL.ipynb)
-			- Sesión 03: Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection.ipynb)
+			- Sesión 04: Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection.ipynb)
 
 
