@@ -103,6 +103,8 @@ El propósito es introducir al una de las áreas más importantes de las Ciencia
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/03_artificialintelligence_nonlinealclassification_complexity_overfitting_SOL.ipynb)
 			- Sesión 04: Máquinas de vectores de soporte y selección de modelos [descargar](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection.ipynb)
+				* [Solución](https://github.com/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection_SOL.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/machinelearning/blob/master/notebooks/01_machinelearnig/04_artificialintelligence_svm_modelselection_SOL.ipynb)
 
 
 
